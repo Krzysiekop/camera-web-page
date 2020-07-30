@@ -1,0 +1,17 @@
+footer{
+  background: black;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 10%;
+  padding-right: 10%;
+  align-items: center;
+  ul{
+    display: flex;
+    flex: 1;
+    list-style: none;
+    justify-content: space-between;
+  }
+  h2{
+    flex: 3;
+  }
+}
